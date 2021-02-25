@@ -9,7 +9,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vin4h" />
   </a>
-  <p>
+  <p align="center">
     <img src="https://views.whatilearened.today/views/github/vin4h/views.svg"/>
     <a href="https://github.com/vin4h/"><img src="https://img.shields.io/github/followers/vin4h?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="mailto:viniciu.rezende@gmail.com?subject=[GitHub]%20🔥%20Contato%20e-mail&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Contato-e--mail-brightgreen"/></a>
