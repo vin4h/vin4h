@@ -22,4 +22,4 @@
 - 🔭 Sou desenvolvedor com foco em Web, porém sempre estou apredendo, muitas vezes não importando com a linguagem 🤙.
 - 🌱 Foco de estudo é Javascript com NodeJS sempre buscando me atualizar.
 - 📫 Contato: Acima tem minhas redes sociais e e-mail, pode entrar em contato.
-- ⚡ Languages: Javascript, PHP.
+- ⚡ Languages: Javascript.
