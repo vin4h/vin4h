@@ -15,8 +15,8 @@
   --accent: #e8963c;
   --accent-soft: rgba(232, 150, 60, 0.14);
 
-  --font-display: "Space Grotesk", "Segoe UI", sans-serif;
-  --font-body: "IBM Plex Sans", "Segoe UI", sans-serif;
+  --font-display: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  --font-body: "Inter", "Segoe UI", sans-serif;
   --font-mono: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
 
   --content-width: 880px;
@@ -46,10 +46,10 @@ body {
 
 h1, h2, h3 {
   font-family: var(--font-display);
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1.15;
   margin: 0 0 0.6em;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
 }
 
 h2 { font-size: clamp(1.6rem, 2.4vw + 1rem, 2.2rem); }
